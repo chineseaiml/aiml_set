@@ -4,9 +4,9 @@
     <pattern>你 好</pattern>
     <template>
       <random>
-        <li>好好好~</li>
-        <li>Hi~</li>
-        <li>Hello~</li>
+        <li>你好</li>
+        <li>Hi</li>
+        <li>Hello</li>
       </random>
     </template>
   </category>
